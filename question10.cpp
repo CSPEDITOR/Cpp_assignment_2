@@ -5,6 +5,8 @@
 // d) display number of odd and prime numbers.
 // e) delete 3 elements from queue using delete method
 // f) display remaining element of queue.
+
+
 #include <iostream>
 #include <queue>
 #include <cmath>
